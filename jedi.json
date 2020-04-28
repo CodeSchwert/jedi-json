@@ -1,0 +1,287 @@
+[
+  { 
+    "name": "Qui-Gon Jinn",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Anakin Skywalker",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Quinlan Vos",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Yoda",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Mace Windu",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ki-Adi-Mundi",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Plo Koon",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Saesee Tiin",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Yaddle",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Even Piell",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Oppo Rancisis",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Adi Gallia",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Yarael Poof",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Eeth Koth",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Depa Billaba",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Kit Fisto",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Luminara Unduli",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Barriss Offee",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Shaak Ti",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Coleman Trebor",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Jocasta Nu",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Zett Jukassa",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Aayla Secura",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Sifo-Dyas",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Count Dooku",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Pablo-Jill/Bultar Swan",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Agen Kolar",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Stass Allie",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ahsoka Tano",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Asajj Ventress",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ima-Gun Di",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Nahdar Vebb",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Bolla Ropal",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ord Enisence",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Force Babies",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Halsey/Knox",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Eekar Oki",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Finn Ertay/Unnamed Nikto Jedi",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Tera Sinube",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ky Narec",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Pong Krell",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Thongla Jur",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Coleman Kcaj",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Tiplar/Tiplee",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Rig Nema",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Tu-Anh",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Kav Bayons",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Akar-Deshu",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Huulik",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Uvell",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Phin-Law Wo",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Yoda's Jedi Master",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Whie/Bene",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Kanan Jarrus (a.k.a. Caleb Dume)",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ezra Bridger",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Luke Skywalker",
+    "order": "Jedi",
+    "side": "light"
+  },
+  { 
+    "name": "Ben Solo",
+    "order": "Jedi",
+    "side": "light" 
+  }
+]
